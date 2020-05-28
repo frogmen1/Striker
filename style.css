@@ -1,0 +1,78 @@
+.body{
+    background-color: tan;
+}
+
+.row{
+    background-color: peru;
+}
+
+.nav-bar{
+    margin: 3px;
+    width: 350px;
+    height: 33px;
+    font-size: x-large;
+    background-color: palegoldenrod;
+    text-align: center;
+}
+
+.striker-list{
+  text-align: center;
+}
+
+.striker-paragraph{
+  
+  font-size: x-large;
+}
+
+#boobs-image{
+  width: 15%;
+  margin-top: 5px;
+  padding:10px;
+  border:1px solid green;
+  background-color:orange;
+}
+
+#smile-image{
+  width: 15%;
+  float: right;
+  margin-top: 10px;
+  padding:10px;
+  border:1px solid green;
+  background-color: orange;
+}
+
+#giant-face{
+  width: 100%;
+  opacity: 0.7;
+}
+
+.welcoming-text{
+  position: absolute;
+  top: 120%;
+  left: 45%;
+  color: black;  
+}
+
+.gallery-img{
+  width: 300%;
+  height: 100%;
+}
+
+a:link {
+    color: black;
+  }
+  
+
+a:visited {
+    color: black;
+  }
+  
+
+a:hover {
+    color: black;
+  }
+  
+  
+a:active {
+    color:black;
+  }
